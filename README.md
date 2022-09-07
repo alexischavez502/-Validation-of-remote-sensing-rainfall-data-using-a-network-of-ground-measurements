@@ -8,4 +8,4 @@ ground measurements. In this group project you will work with two specific RS ra
 products: CHIRPS and TRMM. For more information of the datasets please visit the 
 websites: https://trmm.gsfc.nasa.gov/ , https://www.chc.ucsb.edu/data/chirps 
 
-Important to try the python code, is to uncompress the .rar files, and have to be saved i the same directory. the lastter is just a recomendation.
+Important to try the python code, is to uncompress the .rar files, and have to be saved i the same directory. the latter is just a recomendation.
